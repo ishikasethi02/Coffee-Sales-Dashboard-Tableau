@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Dashboard | Tableau
+# ☕ Coffee Sales Dashboard | Tableau Project 📊
 
 <img width="1870" height="888" alt="coffee sales dashboard- tableau" src="https://github.com/user-attachments/assets/9a0358d2-ab9f-4261-a31b-6698dc52af03" />
 
